@@ -1,0 +1,9 @@
+{
+  "bridgeIp": "192.168.0.4",
+  "userId": "xyzzy",
+  "sensorIds": [],
+  "light": {
+    "type": "Light", // Light | Group
+    "id": 19
+  }
+}
